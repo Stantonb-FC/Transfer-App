@@ -1,0 +1,2064 @@
+{
+  "Monday": [
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 610,
+      "City": "Pigeon Forge"
+    },
+    {
+      "Store": 661,
+      "City": "Lafollette"
+    },
+    {
+      "Store": 667,
+      "City": "Sevierville"
+    },
+    {
+      "Store": 679,
+      "City": "Powell "
+    },
+    {
+      "Store": 651,
+      "City": "Maryville"
+    },
+    {
+      "Store": 687,
+      "City": "Millertown Pike "
+    },
+    {
+      "Store": 607,
+      "City": "Morristown"
+    },
+    {
+      "Store": 612,
+      "City": "Rogersville"
+    },
+    {
+      "Store": 663,
+      "City": "Greenville "
+    },
+    {
+      "Store": 606,
+      "City": "Greenville"
+    },
+    {
+      "Store": 214,
+      "City": "Ringgold"
+    },
+    {
+      "Store": 230,
+      "City": "Chatsworth"
+    },
+    {
+      "Store": 211,
+      "City": "Dalton"
+    },
+    {
+      "Store": 212,
+      "City": "Calhoun"
+    },
+    {
+      "Store": 657,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 655,
+      "City": "Strawberry Plains"
+    },
+    {
+      "Store": 630,
+      "City": "Dandridge"
+    },
+    {
+      "Store": 602,
+      "City": "Morristown"
+    },
+    {
+      "Store": 646,
+      "City": "Morristown"
+    },
+    {
+      "Store": 608,
+      "City": "Greenville"
+    },
+    {
+      "Store": 821,
+      "City": "Bristol"
+    },
+    {
+      "Store": 665,
+      "City": "Pigeon Forge"
+    },
+    {
+      "Store": 609,
+      "City": "Kodak"
+    },
+    {
+      "Store": 820,
+      "City": "Weber City"
+    },
+    {
+      "Store": 249,
+      "City": "Fort Oglethorpe"
+    },
+    {
+      "Store": 620,
+      "City": "Vonore"
+    },
+    {
+      "Store": 823,
+      "City": "Abingdon"
+    },
+    {
+      "Store": 615,
+      "City": "Jefferson City"
+    },
+    {
+      "Store": 743,
+      "City": "Cleveland"
+    },
+    {
+      "Store": 705,
+      "City": "E. 23rd Street"
+    },
+    {
+      "Store": 706,
+      "City": "HWY 58 Chatt"
+    },
+    {
+      "Store": 717,
+      "City": "HWY 58 Chatt"
+    },
+    {
+      "Store": 668,
+      "City": "Sevierville"
+    },
+    {
+      "Store": 685,
+      "City": "Fountain City"
+    },
+    {
+      "Store": 688,
+      "City": "Hall"
+    },
+    {
+      "Store": 686,
+      "City": "Athens"
+    },
+    {
+      "Store": 632,
+      "City": "Loudon"
+    },
+    {
+      "Store": 644,
+      "City": "Seymour"
+    },
+    {
+      "Store": 662,
+      "City": "Fairfiels Glade "
+    },
+    {
+      "Store": 656,
+      "City": "Crossville"
+    },
+    {
+      "Store": 712,
+      "City": "Cleveland"
+    },
+    {
+      "Store": 773,
+      "City": "Ooltewah"
+    },
+    {
+      "Store": 747,
+      "City": "Etowah"
+    },
+    {
+      "Store": 653,
+      "City": "Kingston "
+    },
+    {
+      "Store": 634,
+      "City": "Harriman"
+    },
+    {
+      "Store": 626,
+      "City": "Alcoa"
+    },
+    {
+      "Store": 647,
+      "City": "Maryville"
+    },
+    {
+      "Store": 694,
+      "City": "Morrell Rd."
+    },
+    {
+      "Store": 676,
+      "City": "College Homes RU"
+    },
+    {
+      "Store": 674,
+      "City": "Bearden"
+    },
+    {
+      "Store": 650,
+      "City": "Lenoir City"
+    },
+    {
+      "Store": 642,
+      "City": "Oliver Springs"
+    },
+    {
+      "Store": 672,
+      "City": "Middlebrook Pike"
+    },
+    {
+      "Store": 616,
+      "City": "Hardin Valley"
+    },
+    {
+      "Store": 619,
+      "City": "Blaine"
+    },
+    {
+      "Store": 682,
+      "City": "Chapman Plaza"
+    },
+    {
+      "Store": 677,
+      "City": "Clinton Plaza "
+    },
+    {
+      "Store": 678,
+      "City": "Western Ave"
+    },
+    {
+      "Store": 681,
+      "City": "Oak Ridge"
+    },
+    {
+      "Store": 618,
+      "City": "White Pine"
+    },
+    {
+      "Store": 614,
+      "City": "Newport"
+    },
+    {
+      "Store": 604,
+      "City": "Newport"
+    },
+    {
+      "Store": 654,
+      "City": "Clinton"
+    },
+    {
+      "Store": 2619,
+      "City": "Rogersville"
+    }
+  ],
+  "Tuesday": [
+    {
+      "Store": 629,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 424,
+      "City": "Paintsville"
+    },
+    {
+      "Store": 433,
+      "City": "Louisa"
+    },
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 471,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 603,
+      "City": "Church Hill"
+    },
+    {
+      "Store": 664,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 458,
+      "City": "Pikeville"
+    },
+    {
+      "Store": 715,
+      "City": "Signal Mountain"
+    },
+    {
+      "Store": 716,
+      "City": "Tn. Ave-Chatt "
+    },
+    {
+      "Store": 605,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 622,
+      "City": "Bristol"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant"
+    },
+    {
+      "Store": 217,
+      "City": "Rossville"
+    },
+    {
+      "Store": 252,
+      "City": "Lafeyette"
+    },
+    {
+      "Store": 848,
+      "City": "Marion"
+    },
+    {
+      "Store": 206,
+      "City": "Rossville"
+    },
+    {
+      "Store": 233,
+      "City": "Trenton"
+    },
+    {
+      "Store": 501,
+      "City": "Albertville "
+    },
+    {
+      "Store": 631,
+      "City": "Elizabethton"
+    },
+    {
+      "Store": 645,
+      "City": "New Tazewell"
+    },
+    {
+      "Store": 428,
+      "City": "Middlesboro"
+    },
+    {
+      "Store": 703,
+      "City": "Hixson Pike"
+    },
+    {
+      "Store": 713,
+      "City": "Hixson  "
+    },
+    {
+      "Store": 735,
+      "City": "Lee Hwy. Chatt"
+    },
+    {
+      "Store": 701,
+      "City": "E.Brainerd"
+    },
+    {
+      "Store": 724,
+      "City": "Dayton"
+    },
+    {
+      "Store": 726,
+      "City": "Hixson"
+    },
+    {
+      "Store": 727,
+      "City": "Red Bank "
+    },
+    {
+      "Store": 738,
+      "City": "Soddy-Daisy"
+    },
+    {
+      "Store": 680,
+      "City": "Maynardville"
+    },
+    {
+      "Store": 774,
+      "City": "Ooltewah "
+    },
+    {
+      "Store": 710,
+      "City": "East Ridge"
+    },
+    {
+      "Store": 849,
+      "City": "Chilhowie"
+    },
+    {
+      "Store": 891,
+      "City": "Big Stone Gap"
+    },
+    {
+      "Store": 425,
+      "City": "Williamson"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant- paper inserts"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill - Milk Only"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon - Milk Only"
+    },
+    {
+      "Store": 475,
+      "City": "Shelbianna"
+    },
+    {
+      "Store": 898,
+      "City": "Wise- Milk Only"
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg"
+    },
+    {
+      "Store": 898,
+      "City": "Wise "
+    },
+    {
+      "Store": 438,
+      "City": "Hazard        "
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg - Milk Only"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill "
+    },
+    {
+      "Store": 852,
+      "City": "Bluefield"
+    },
+    {
+      "Store": 437,
+      "City": "Harlan"
+    },
+    {
+      "Store": 468,
+      "City": "Cumberland"
+    },
+    {
+      "Store": 865,
+      "City": "Galax"
+    },
+    {
+      "Store": 866,
+      "City": "Independence"
+    },
+    {
+      "Store": 2843,
+      "City": "Grundy"
+    },
+    {
+      "Store": 2803,
+      "City": "Abingdon"
+    },
+    {
+      "Store": 816,
+      "City": "Bristol"
+    },
+    {
+      "Store": 860,
+      "City": "Damascus"
+    },
+    {
+      "Store": 892,
+      "City": "Clintwood"
+    },
+    {
+      "Store": 893,
+      "City": "Coeburn"
+    },
+    {
+      "Store": 859,
+      "City": "Pulaski"
+    },
+    {
+      "Store": 858,
+      "City": "Radford"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 625,
+      "City": "Erwin"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    },
+    {
+      "Store": 895,
+      "City": "Penn. Gap"
+    },
+    {
+      "Store": 896,
+      "City": "Rose Hill"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon  "
+    },
+    {
+      "Store": 897,
+      "City": "St. Paul"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 640,
+      "City": "Jonesborough"
+    },
+    {
+      "Store": 2457,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 2446,
+      "City": "Pikeville"
+    },
+    {
+      "Store": 641,
+      "City": "Boones Creek"
+    },
+    {
+      "Store": 850,
+      "City": "Wythville"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    }
+  ],
+  "Wednesday": [
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 610,
+      "City": "Pigeon Forge"
+    },
+    {
+      "Store": 661,
+      "City": "Lafollette"
+    },
+    {
+      "Store": 667,
+      "City": "Sevierville"
+    },
+    {
+      "Store": 679,
+      "City": "Powell "
+    },
+    {
+      "Store": 651,
+      "City": "Maryville"
+    },
+    {
+      "Store": 687,
+      "City": "Millertown Pike "
+    },
+    {
+      "Store": 607,
+      "City": "Morristown"
+    },
+    {
+      "Store": 612,
+      "City": "Rogersville"
+    },
+    {
+      "Store": 663,
+      "City": "Greenville "
+    },
+    {
+      "Store": 606,
+      "City": "Greenville"
+    },
+    {
+      "Store": 214,
+      "City": "Ringgold"
+    },
+    {
+      "Store": 230,
+      "City": "Chatsworth"
+    },
+    {
+      "Store": 211,
+      "City": "Dalton"
+    },
+    {
+      "Store": 212,
+      "City": "Calhoun"
+    },
+    {
+      "Store": 657,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 655,
+      "City": "Strawberry Plains"
+    },
+    {
+      "Store": 630,
+      "City": "Dandridge"
+    },
+    {
+      "Store": 602,
+      "City": "Morristown"
+    },
+    {
+      "Store": 646,
+      "City": "Morristown"
+    },
+    {
+      "Store": 608,
+      "City": "Greenville"
+    },
+    {
+      "Store": 821,
+      "City": "Bristol"
+    },
+    {
+      "Store": 665,
+      "City": "Pigeon Forge"
+    },
+    {
+      "Store": 609,
+      "City": "Kodak"
+    },
+    {
+      "Store": 820,
+      "City": "Weber City"
+    },
+    {
+      "Store": 249,
+      "City": "Fort Oglethorpe"
+    },
+    {
+      "Store": 620,
+      "City": "Vonore"
+    },
+    {
+      "Store": 823,
+      "City": "Abingdon"
+    },
+    {
+      "Store": 615,
+      "City": "Jefferson City"
+    },
+    {
+      "Store": 743,
+      "City": "Cleveland"
+    },
+    {
+      "Store": 705,
+      "City": "E. 23rd Street"
+    },
+    {
+      "Store": 706,
+      "City": "HWY 58 Chatt"
+    },
+    {
+      "Store": 717,
+      "City": "HWY 58 Chatt"
+    },
+    {
+      "Store": 668,
+      "City": "Sevierville"
+    },
+    {
+      "Store": 685,
+      "City": "Fountain City"
+    },
+    {
+      "Store": 688,
+      "City": "Hall"
+    },
+    {
+      "Store": 686,
+      "City": "Athens"
+    },
+    {
+      "Store": 632,
+      "City": "Loudon"
+    },
+    {
+      "Store": 644,
+      "City": "Seymour"
+    },
+    {
+      "Store": 662,
+      "City": "Fairfiels Glade "
+    },
+    {
+      "Store": 656,
+      "City": "Crossville"
+    },
+    {
+      "Store": 712,
+      "City": "Cleveland"
+    },
+    {
+      "Store": 773,
+      "City": "Ooltewah"
+    },
+    {
+      "Store": 747,
+      "City": "Etowah"
+    },
+    {
+      "Store": 653,
+      "City": "Kingston "
+    },
+    {
+      "Store": 634,
+      "City": "Harriman"
+    },
+    {
+      "Store": 626,
+      "City": "Alcoa"
+    },
+    {
+      "Store": 647,
+      "City": "Maryville"
+    },
+    {
+      "Store": 694,
+      "City": "Morrell Rd."
+    },
+    {
+      "Store": 676,
+      "City": "College Homes RU"
+    },
+    {
+      "Store": 674,
+      "City": "Bearden"
+    },
+    {
+      "Store": 650,
+      "City": "Lenoir City"
+    },
+    {
+      "Store": 642,
+      "City": "Oliver Springs"
+    },
+    {
+      "Store": 672,
+      "City": "Middlebrook Pike"
+    },
+    {
+      "Store": 616,
+      "City": "Hardin Valley"
+    },
+    {
+      "Store": 619,
+      "City": "Blaine"
+    },
+    {
+      "Store": 682,
+      "City": "Chapman Plaza"
+    },
+    {
+      "Store": 677,
+      "City": "Clinton Plaza "
+    },
+    {
+      "Store": 678,
+      "City": "Western Ave"
+    },
+    {
+      "Store": 681,
+      "City": "Oak Ridge"
+    },
+    {
+      "Store": 618,
+      "City": "White Pine"
+    },
+    {
+      "Store": 614,
+      "City": "Newport"
+    },
+    {
+      "Store": 604,
+      "City": "Newport"
+    },
+    {
+      "Store": 654,
+      "City": "Clinton"
+    },
+    {
+      "Store": 2619,
+      "City": "Rogersville"
+    }
+  ],
+  "Thursday": [
+    {
+      "Store": 629,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 424,
+      "City": "Paintsville"
+    },
+    {
+      "Store": 433,
+      "City": "Louisa"
+    },
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 471,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 603,
+      "City": "Church Hill"
+    },
+    {
+      "Store": 664,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 458,
+      "City": "Pikeville"
+    },
+    {
+      "Store": 715,
+      "City": "Signal Mountain"
+    },
+    {
+      "Store": 716,
+      "City": "Tn. Ave-Chatt "
+    },
+    {
+      "Store": 605,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 622,
+      "City": "Bristol"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant"
+    },
+    {
+      "Store": 217,
+      "City": "Rossville"
+    },
+    {
+      "Store": 252,
+      "City": "Lafeyette"
+    },
+    {
+      "Store": 848,
+      "City": "Marion"
+    },
+    {
+      "Store": 206,
+      "City": "Rossville"
+    },
+    {
+      "Store": 233,
+      "City": "Trenton"
+    },
+    {
+      "Store": 501,
+      "City": "Albertville "
+    },
+    {
+      "Store": 631,
+      "City": "Elizabethton"
+    },
+    {
+      "Store": 651,
+      "City": "Maryville Extra"
+    },
+    {
+      "Store": 645,
+      "City": "New Tazewell"
+    },
+    {
+      "Store": 428,
+      "City": "Middlesboro"
+    },
+    {
+      "Store": 703,
+      "City": "Hixson Pike"
+    },
+    {
+      "Store": 713,
+      "City": "Hixson  "
+    },
+    {
+      "Store": 735,
+      "City": "Lee Hwy. Chatt"
+    },
+    {
+      "Store": 701,
+      "City": "E.Brainerd"
+    },
+    {
+      "Store": 724,
+      "City": "Dayton"
+    },
+    {
+      "Store": 726,
+      "City": "Hixson"
+    },
+    {
+      "Store": 727,
+      "City": "Red Bank "
+    },
+    {
+      "Store": 738,
+      "City": "Soddy-Daisy"
+    },
+    {
+      "Store": 849,
+      "City": "Chilhowie"
+    },
+    {
+      "Store": 774,
+      "City": "Ooltewah "
+    },
+    {
+      "Store": 710,
+      "City": "East Ridge"
+    },
+    {
+      "Store": 680,
+      "City": "Maynardville"
+    },
+    {
+      "Store": 891,
+      "City": "Big Stone Gap  DIB"
+    },
+    {
+      "Store": 425,
+      "City": "Williamson"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant- paper inserts"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill - Milk Only"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon - Milk Only"
+    },
+    {
+      "Store": 475,
+      "City": "Shelbianna"
+    },
+    {
+      "Store": 898,
+      "City": "Wise- Milk Only"
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg"
+    },
+    {
+      "Store": 898,
+      "City": "Wise "
+    },
+    {
+      "Store": 438,
+      "City": "Hazard        "
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg - Milk Only"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill "
+    },
+    {
+      "Store": 852,
+      "City": "Bluefield"
+    },
+    {
+      "Store": 437,
+      "City": "Harlan"
+    },
+    {
+      "Store": 468,
+      "City": "Cumberland"
+    },
+    {
+      "Store": 2843,
+      "City": "Grundy"
+    },
+    {
+      "Store": 2803,
+      "City": "Abingdon"
+    },
+    {
+      "Store": 865,
+      "City": "Galax   DIB"
+    },
+    {
+      "Store": 866,
+      "City": "Independence"
+    },
+    {
+      "Store": 816,
+      "City": "Bristol"
+    },
+    {
+      "Store": 860,
+      "City": "Damascus"
+    },
+    {
+      "Store": 892,
+      "City": "Clintwood   DIB"
+    },
+    {
+      "Store": 893,
+      "City": "Coeburn"
+    },
+    {
+      "Store": 859,
+      "City": "Pulaski"
+    },
+    {
+      "Store": 858,
+      "City": "Radford"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 625,
+      "City": "Erwin"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    },
+    {
+      "Store": 895,
+      "City": "Penn Gap  DIB"
+    },
+    {
+      "Store": 896,
+      "City": "Rose Hill"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon  "
+    },
+    {
+      "Store": 897,
+      "City": "St. Paul"
+    },
+    {
+      "Store": 2457,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 2446,
+      "City": "Pikeville"
+    },
+    {
+      "Store": 641,
+      "City": "Boones Creek"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 640,
+      "City": "Jonesborough"
+    },
+    {
+      "Store": 850,
+      "City": "Wythville"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    }
+  ],
+  "Friday": [
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 471,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 610,
+      "City": "Pigeon Forge"
+    },
+    {
+      "Store": 667,
+      "City": "Sevierville"
+    },
+    {
+      "Store": 679,
+      "City": "Powell - DIB"
+    },
+    {
+      "Store": 687,
+      "City": "Millertown Pike"
+    },
+    {
+      "Store": 651,
+      "City": "Maryville"
+    },
+    {
+      "Store": 607,
+      "City": "Morristown"
+    },
+    {
+      "Store": 612,
+      "City": "Rogersville"
+    },
+    {
+      "Store": 663,
+      "City": "Greenville"
+    },
+    {
+      "Store": 606,
+      "City": "Greenville"
+    },
+    {
+      "Store": 214,
+      "City": "Ringgold"
+    },
+    {
+      "Store": 230,
+      "City": "Chatsworth"
+    },
+    {
+      "Store": 211,
+      "City": "Dalton"
+    },
+    {
+      "Store": 212,
+      "City": "Calhoun"
+    },
+    {
+      "Store": 657,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 655,
+      "City": "Strawberry Plains"
+    },
+    {
+      "Store": 630,
+      "City": "Dandridge"
+    },
+    {
+      "Store": 602,
+      "City": "Morristown"
+    },
+    {
+      "Store": 646,
+      "City": "Morristown - DIB"
+    },
+    {
+      "Store": 605,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 820,
+      "City": "Weber City"
+    },
+    {
+      "Store": 608,
+      "City": "Greenville"
+    },
+    {
+      "Store": 821,
+      "City": "Bristol"
+    },
+    {
+      "Store": 665,
+      "City": "Pigeon Forge"
+    },
+    {
+      "Store": 609,
+      "City": "Kodak"
+    },
+    {
+      "Store": 249,
+      "City": "Fort Oglethorpe"
+    },
+    {
+      "Store": 823,
+      "City": "Abingdon"
+    },
+    {
+      "Store": 615,
+      "City": "Jefferson City"
+    },
+    {
+      "Store": 668,
+      "City": "Sevierville"
+    },
+    {
+      "Store": 685,
+      "City": "Fountain City"
+    },
+    {
+      "Store": 688,
+      "City": "Hall"
+    },
+    {
+      "Store": 620,
+      "City": "Vonore"
+    },
+    {
+      "Store": 661,
+      "City": "Lafollette"
+    },
+    {
+      "Store": 743,
+      "City": "Cleveland"
+    },
+    {
+      "Store": 705,
+      "City": "East 23rd Street"
+    },
+    {
+      "Store": 706,
+      "City": "HWY 58 Chatt"
+    },
+    {
+      "Store": 717,
+      "City": "HWY 58 Chatt"
+    },
+    {
+      "Store": 686,
+      "City": "Athens"
+    },
+    {
+      "Store": 632,
+      "City": "Loudon"
+    },
+    {
+      "Store": 644,
+      "City": "Seymour"
+    },
+    {
+      "Store": 662,
+      "City": "Fairfiels Glade"
+    },
+    {
+      "Store": 656,
+      "City": "Crossville"
+    },
+    {
+      "Store": 712,
+      "City": "Cleveland"
+    },
+    {
+      "Store": 747,
+      "City": "Etowah"
+    },
+    {
+      "Store": 773,
+      "City": "Ooltewah"
+    },
+    {
+      "Store": 626,
+      "City": "Alcoa"
+    },
+    {
+      "Store": 647,
+      "City": "Maryville"
+    },
+    {
+      "Store": 653,
+      "City": "Kingston"
+    },
+    {
+      "Store": 634,
+      "City": "Harriman"
+    },
+    {
+      "Store": 694,
+      "City": "Morrell Rd."
+    },
+    {
+      "Store": 650,
+      "City": "Lenoir City"
+    },
+    {
+      "Store": 642,
+      "City": "Oliver Springs"
+    },
+    {
+      "Store": 676,
+      "City": "College Homes "
+    },
+    {
+      "Store": 674,
+      "City": "Bearden"
+    },
+    {
+      "Store": 672,
+      "City": "Middlebrook Pike"
+    },
+    {
+      "Store": 616,
+      "City": "Hardin Valley"
+    },
+    {
+      "Store": 619,
+      "City": "Blaine"
+    },
+    {
+      "Store": 682,
+      "City": "Chapman Plaza"
+    },
+    {
+      "Store": 677,
+      "City": "Clinton Plaza - DIB"
+    },
+    {
+      "Store": 678,
+      "City": "Western Ave"
+    },
+    {
+      "Store": 681,
+      "City": "Oak Ridge"
+    },
+    {
+      "Store": 604,
+      "City": "Newport"
+    },
+    {
+      "Store": 618,
+      "City": "White Pine"
+    },
+    {
+      "Store": 614,
+      "City": "Newport"
+    },
+    {
+      "Store": 654,
+      "City": "Clinton"
+    },
+    {
+      "Store": 895,
+      "City": "Penn. Gap "
+    },
+    {
+      "Store": 2619,
+      "City": "Rogersville"
+    }
+  ],
+  "Saturday": [
+    {
+      "Store": 629,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 424,
+      "City": "Paintsville"
+    },
+    {
+      "Store": 433,
+      "City": "Louisa   DIB"
+    },
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 471,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 603,
+      "City": "Church Hill"
+    },
+    {
+      "Store": 664,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 458,
+      "City": "Pikeville     DIB"
+    },
+    {
+      "Store": 715,
+      "City": "Signal Mountain"
+    },
+    {
+      "Store": 716,
+      "City": "Tn. Ave-Chatt "
+    },
+    {
+      "Store": 605,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 622,
+      "City": "Bristol"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant"
+    },
+    {
+      "Store": 217,
+      "City": "Rossville"
+    },
+    {
+      "Store": 252,
+      "City": "Lafayette"
+    },
+    {
+      "Store": 848,
+      "City": "Marion"
+    },
+    {
+      "Store": 206,
+      "City": "Rossville"
+    },
+    {
+      "Store": 233,
+      "City": "Trenton"
+    },
+    {
+      "Store": 501,
+      "City": "Albertville"
+    },
+    {
+      "Store": 631,
+      "City": "Elizabethton"
+    },
+    {
+      "Store": 651,
+      "City": "Maryville Extra"
+    },
+    {
+      "Store": 645,
+      "City": "New Tazewell"
+    },
+    {
+      "Store": 428,
+      "City": "Middlesboro"
+    },
+    {
+      "Store": 703,
+      "City": "Hixson Pike"
+    },
+    {
+      "Store": 713,
+      "City": "Hixson  "
+    },
+    {
+      "Store": 735,
+      "City": "Lee Hwy. Chatt"
+    },
+    {
+      "Store": 701,
+      "City": "E.Brainerd"
+    },
+    {
+      "Store": 724,
+      "City": "Dayton"
+    },
+    {
+      "Store": 726,
+      "City": "Hixson"
+    },
+    {
+      "Store": 727,
+      "City": "Red Bank"
+    },
+    {
+      "Store": 738,
+      "City": "Soddy-Daisy"
+    },
+    {
+      "Store": 849,
+      "City": "Chilhowie"
+    },
+    {
+      "Store": 774,
+      "City": "Ooltewah "
+    },
+    {
+      "Store": 710,
+      "City": "East Ridge"
+    },
+    {
+      "Store": 680,
+      "City": "Maynardville"
+    },
+    {
+      "Store": 891,
+      "City": "Big Stone Gap"
+    },
+    {
+      "Store": 425,
+      "City": "Williamson   DIB"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant- paper inserts"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill - Milk Only"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon - Milk Only"
+    },
+    {
+      "Store": 475,
+      "City": "Shelbianna"
+    },
+    {
+      "Store": 898,
+      "City": "Wise- Milk Only"
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg"
+    },
+    {
+      "Store": 898,
+      "City": "Wise "
+    },
+    {
+      "Store": 438,
+      "City": "Hazard         "
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg - Milk Only"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill "
+    },
+    {
+      "Store": 852,
+      "City": "Bluefield"
+    },
+    {
+      "Store": 437,
+      "City": "Harlan"
+    },
+    {
+      "Store": 468,
+      "City": "Cumberland   DIB"
+    },
+    {
+      "Store": 865,
+      "City": "Galax"
+    },
+    {
+      "Store": 866,
+      "City": "Independence"
+    },
+    {
+      "Store": 816,
+      "City": "Bristol"
+    },
+    {
+      "Store": 860,
+      "City": "Damascus"
+    },
+    {
+      "Store": 892,
+      "City": "Clintwood"
+    },
+    {
+      "Store": 893,
+      "City": "Coeburn"
+    },
+    {
+      "Store": 859,
+      "City": "Pulaski"
+    },
+    {
+      "Store": 858,
+      "City": "Radford"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 625,
+      "City": "Erwin"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon  "
+    },
+    {
+      "Store": 897,
+      "City": "St. Paul"
+    },
+    {
+      "Store": 641,
+      "City": "Boones Creek"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 640,
+      "City": "Jonesborough"
+    },
+    {
+      "Store": 2457,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 2446,
+      "City": "Pikeville  DIB"
+    },
+    {
+      "Store": 850,
+      "City": "Wythville"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    }
+  ],
+  "Sunday": [
+    {
+      "Store": 629,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 424,
+      "City": "Paintsville"
+    },
+    {
+      "Store": 433,
+      "City": "Louisa"
+    },
+    {
+      "Store": 611,
+      "City": "Gatlinburg"
+    },
+    {
+      "Store": 471,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 603,
+      "City": "Church Hill"
+    },
+    {
+      "Store": 664,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 458,
+      "City": "Pikeville"
+    },
+    {
+      "Store": 715,
+      "City": "Signal Mountain"
+    },
+    {
+      "Store": 716,
+      "City": "Tn. Ave-Chatt "
+    },
+    {
+      "Store": 605,
+      "City": "Kingsport"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 622,
+      "City": "Bristol"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant"
+    },
+    {
+      "Store": 217,
+      "City": "Rossville"
+    },
+    {
+      "Store": 252,
+      "City": "Lafeyette"
+    },
+    {
+      "Store": 848,
+      "City": "Marion"
+    },
+    {
+      "Store": 206,
+      "City": "Rossville"
+    },
+    {
+      "Store": 233,
+      "City": "Trenton"
+    },
+    {
+      "Store": 501,
+      "City": "Albertville "
+    },
+    {
+      "Store": 631,
+      "City": "Elizabethton"
+    },
+    {
+      "Store": 645,
+      "City": "New Tazewell"
+    },
+    {
+      "Store": 428,
+      "City": "Middlesboro"
+    },
+    {
+      "Store": 703,
+      "City": "Hixson Pike"
+    },
+    {
+      "Store": 713,
+      "City": "Hixson  "
+    },
+    {
+      "Store": 735,
+      "City": "Lee Hwy. Chatt"
+    },
+    {
+      "Store": 701,
+      "City": "E.Brainerd"
+    },
+    {
+      "Store": 724,
+      "City": "Dayton"
+    },
+    {
+      "Store": 726,
+      "City": "Hixson"
+    },
+    {
+      "Store": 727,
+      "City": "Red Bank "
+    },
+    {
+      "Store": 738,
+      "City": "Soddy-Daisy"
+    },
+    {
+      "Store": 680,
+      "City": "Maynardville"
+    },
+    {
+      "Store": 774,
+      "City": "Ooltewah "
+    },
+    {
+      "Store": 710,
+      "City": "East Ridge"
+    },
+    {
+      "Store": 849,
+      "City": "Chilhowie"
+    },
+    {
+      "Store": 891,
+      "City": "Big Stone Gap"
+    },
+    {
+      "Store": 425,
+      "City": "Williamson"
+    },
+    {
+      "Store": 839,
+      "City": "Vansant- paper inserts"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill - Milk Only"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon - Milk Only"
+    },
+    {
+      "Store": 475,
+      "City": "Shelbianna"
+    },
+    {
+      "Store": 898,
+      "City": "Wise- Milk Only"
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg"
+    },
+    {
+      "Store": 898,
+      "City": "Wise "
+    },
+    {
+      "Store": 438,
+      "City": "Hazard        "
+    },
+    {
+      "Store": 436,
+      "City": "Whitesburg - Milk Only"
+    },
+    {
+      "Store": 827,
+      "City": "Claypool Hill "
+    },
+    {
+      "Store": 852,
+      "City": "Bluefield"
+    },
+    {
+      "Store": 437,
+      "City": "Harlan"
+    },
+    {
+      "Store": 468,
+      "City": "Cumberland"
+    },
+    {
+      "Store": 865,
+      "City": "Galax"
+    },
+    {
+      "Store": 866,
+      "City": "Independence"
+    },
+    {
+      "Store": 2843,
+      "City": "Grundy"
+    },
+    {
+      "Store": 2803,
+      "City": "Abingdon"
+    },
+    {
+      "Store": 816,
+      "City": "Bristol"
+    },
+    {
+      "Store": 860,
+      "City": "Damascus"
+    },
+    {
+      "Store": 892,
+      "City": "Clintwood"
+    },
+    {
+      "Store": 893,
+      "City": "Coeburn"
+    },
+    {
+      "Store": 859,
+      "City": "Pulaski"
+    },
+    {
+      "Store": 858,
+      "City": "Radford"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 625,
+      "City": "Erwin"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    },
+    {
+      "Store": 895,
+      "City": "Penn. Gap"
+    },
+    {
+      "Store": 896,
+      "City": "Rose Hill"
+    },
+    {
+      "Store": 890,
+      "City": "Lebanon  "
+    },
+    {
+      "Store": 897,
+      "City": "St. Paul"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 640,
+      "City": "Jonesborough"
+    },
+    {
+      "Store": 2457,
+      "City": "Prestonsburg"
+    },
+    {
+      "Store": 2446,
+      "City": "Pikeville"
+    },
+    {
+      "Store": 641,
+      "City": "Boones Creek"
+    },
+    {
+      "Store": 850,
+      "City": "Wythville"
+    },
+    {
+      "Store": 617,
+      "City": "Bristol"
+    },
+    {
+      "Store": 669,
+      "City": "Blountville"
+    },
+    {
+      "Store": 699,
+      "City": "Piney Flats"
+    },
+    {
+      "Store": 601,
+      "City": "Johnson City"
+    },
+    {
+      "Store": 670,
+      "City": "Gray"
+    }
+  ]
+}

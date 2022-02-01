@@ -1,0 +1,15 @@
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\TransferApp.exe
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\TransferApp.deps.json
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\TransferApp.runtimeconfig.json
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\TransferApp.runtimeconfig.dev.json
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\TransferApp.dll
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\ref\TransferApp.dll
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\bin\Debug\net5.0\TransferApp.pdb
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.AssemblyInfoInputs.cache
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.AssemblyInfo.cs
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.csproj.CoreCompileInputs.cache
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.dll
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\ref\TransferApp.dll
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.pdb
+C:\Users\stantonb\source\repos\Transfer-App\TransferApp\obj\Debug\net5.0\TransferApp.genruntimeconfig.cache
